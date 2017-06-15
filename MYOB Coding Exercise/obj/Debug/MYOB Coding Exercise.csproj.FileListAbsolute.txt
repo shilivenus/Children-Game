@@ -1,0 +1,20 @@
+c:\users\shili\documents\visual studio 2013\Projects\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\MYOB Coding Exercise.exe.config
+c:\users\shili\documents\visual studio 2013\Projects\MYOB Coding Exercise\MYOB Coding Exercise\obj\Debug\MYOB Coding Exercise.csprojResolveAssemblyReference.cache
+c:\users\shili\documents\visual studio 2013\Projects\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\MYOB Coding Exercise.exe
+c:\users\shili\documents\visual studio 2013\Projects\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\MYOB Coding Exercise.pdb
+c:\users\shili\documents\visual studio 2013\Projects\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\Newtonsoft.Json.dll
+c:\users\shili\documents\visual studio 2013\Projects\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\Newtonsoft.Json.xml
+c:\users\shili\documents\visual studio 2013\Projects\MYOB Coding Exercise\MYOB Coding Exercise\obj\Debug\MYOB Coding Exercise.exe
+c:\users\shili\documents\visual studio 2013\Projects\MYOB Coding Exercise\MYOB Coding Exercise\obj\Debug\MYOB Coding Exercise.pdb
+C:\Users\peter.shi\Desktop\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\MYOB Coding Exercise.exe.config
+C:\Users\peter.shi\Desktop\MYOB Coding Exercise\MYOB Coding Exercise\obj\Debug\MYOB Coding Exercise.exe
+C:\Users\peter.shi\Desktop\MYOB Coding Exercise\MYOB Coding Exercise\obj\Debug\MYOB Coding Exercise.pdb
+C:\Users\peter.shi\Desktop\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\MYOB Coding Exercise.exe
+C:\Users\peter.shi\Desktop\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\MYOB Coding Exercise.pdb
+C:\Users\peter.shi\Desktop\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\Newtonsoft.Json.dll
+C:\Users\peter.shi\Desktop\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\Newtonsoft.Json.xml
+C:\Users\peter.shi\Desktop\MYOB Coding Exercise\MYOB Coding Exercise\obj\Debug\MYOB Coding Exercise.csprojResolveAssemblyReference.cache
+C:\Users\peter.shi\Desktop\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\Ninject.dll
+C:\Users\peter.shi\Desktop\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\Ninject.Extensions.Conventions.dll
+C:\Users\peter.shi\Desktop\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\Ninject.xml
+C:\Users\peter.shi\Desktop\MYOB Coding Exercise\MYOB Coding Exercise\bin\Debug\Ninject.Extensions.Conventions.xml
