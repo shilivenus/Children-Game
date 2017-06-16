@@ -1,0 +1,16 @@
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\obj\Debug\MYOBCodingExerciseTest.csprojResolveAssemblyReference.cache
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\bin\Debug\MYOBCodingExerciseTest.dll.config
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\bin\Debug\MYOBCodingExerciseTest.dll
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\bin\Debug\MYOBCodingExerciseTest.pdb
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\bin\Debug\Castle.Core.dll
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\bin\Debug\Moq.dll
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\bin\Debug\MYOB Coding Exercise.exe
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\bin\Debug\Ninject.dll
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\bin\Debug\Newtonsoft.Json.dll
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\bin\Debug\MYOB Coding Exercise.pdb
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\bin\Debug\Castle.Core.xml
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\bin\Debug\Moq.xml
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\bin\Debug\Ninject.xml
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\bin\Debug\Newtonsoft.Json.xml
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\obj\Debug\MYOBCodingExerciseTest.dll
+C:\HackDay\Children-Game\MYOBCodingExerciseTest\obj\Debug\MYOBCodingExerciseTest.pdb

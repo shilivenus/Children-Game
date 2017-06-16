@@ -9,15 +9,16 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
+using MYOB_Coding_Exercise.Interface;
 
 namespace MYOB_Coding_Exercise
 {
     public class ApiCall : IApiCall
     {
-        private readonly HttpClient _httpClient;
+        private readonly IHttpClient _httpClient;
         private readonly string _url = ConfigurationManager.AppSettings["url"];
 
-        public ApiCall(HttpClient httpClient)
+        public ApiCall(IHttpClient httpClient)
         {
             _httpClient = httpClient;
         }
@@ -34,8 +35,7 @@ namespace MYOB_Coding_Exercise
             var httpContent = new StringContent(stringResult, Encoding.UTF8, "application/json");
 
             try
-            {
-                _httpClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+            {                
                 HttpResponseMessage response = await _httpClient.PostAsync(_url + result, httpContent);
                 return response.IsSuccessStatusCode;
             }

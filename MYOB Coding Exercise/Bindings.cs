@@ -16,7 +16,7 @@ namespace MYOB_Coding_Exercise
             Bind<IApiCall>().To<ApiCall>();
             Bind<IEliminator>().To<ChildrenGame>();
             Bind<IExecute>().To<GameController>();
-            Bind<HttpClient>().ToConstant(new HttpClient());
+            Bind<IHttpClient>().To<MYOBHttpClient>();
         }
     }
 }

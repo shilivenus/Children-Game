@@ -62,8 +62,10 @@
     <Compile Include="Interface\IApiCall.cs" />
     <Compile Include="Interface\IEliminator.cs" />
     <Compile Include="Interface\IExecute.cs" />
+    <Compile Include="Interface\IHttpClient.cs" />
     <Compile Include="Model\GameResult.cs" />
     <Compile Include="Model\GameManifest.cs" />
+    <Compile Include="MYOBHttpClient.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
